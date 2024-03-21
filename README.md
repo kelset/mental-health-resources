@@ -1,5 +1,13 @@
 > Over my career in tech, I've found that we don't talk quite enough about mental health and the burden that this environment has on us. After a bad episode of burnout a few years ago, I decided that I needed help and found a therapist - and in 2020, with the start of the pandemic, I've started to collect resources and links that I feel are good to start learning more about this topic.
 
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
+<a href="https://github.com/kelset?tab=followers">
+<img alt="follow me on github" src="https://img.shields.io/github/followers/kelset?label=Follow%20%40kelset&style=social" />
+</a>
+<a href="https://twitter.com/kelset">
+<img alt="follow me on twitter" src="https://img.shields.io/twitter/follow/kelset?label=Follow%20%40kelset&style=social" />
+</a>
+
 - [🌍 General](#-general)
   - [📩 Newsletters](#-newsletters)
   - [📹 YouTube](#-youtube)
@@ -33,9 +41,8 @@ _In this area, I’m putting general links and resources, divided by area - you 
 
 ## 📹 YouTube
 
-To make it simple, I’ve put it all in this [YouTube playlist](https://www.youtube.com/playlist?list=PLiD6R_aXkpLgYDKrj1gkqdzL2qsKUUfUk) to make it easy to consume.
-
-Also, I have a YouTube channel now where I talk with other developers about mental health, so [check it out](https://www.youtube.com/channel/UCbw5AHyRBNUFzTHCVuO5q9w)!
+- There are a lot of channels I would recommend; I’ve put them all in this [YouTube playlist](https://www.youtube.com/playlist?list=PLiD6R_aXkpLgYDKrj1gkqdzL2qsKUUfUk).
+- [debug:mind](https://www.youtube.com/channel/UCbw5AHyRBNUFzTHCVuO5q9w?sub_confirmation=1) is a series I make where I talk with fellow developers about mental health and its impact in our lives.
 
 ## 🎙 Podcasts
 
