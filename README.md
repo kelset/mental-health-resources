@@ -1,5 +1,26 @@
 > Over my career in tech, I've found that we don't talk quite enough about mental health and the burden that this environment has on us. After a bad episode of burnout a few years ago, I decided that I needed help and found a therapist - and in 2020, with the start of the pandemic, I've started to collect resources and links that I feel are good to start learning more about this topic.
 
+- [🌍 General](#-general)
+  - [📩 Newsletters](#-newsletters)
+  - [📹 YouTube](#-youtube)
+  - [🎙 Podcasts](#-podcasts)
+  - [📚 Courses](#-courses)
+  - [⚙️ Webapps](#️-webapps)
+  - [📲 Mobile apps](#-mobile-apps)
+  - [📚 Books](#-books)
+  - [📺 TV Shows](#-tv-shows)
+  - [🗺 Charities and projects](#-charities-and-projects)
+    - [UK 🇬🇧 specific](#uk--specific)
+    - [USA 🇺🇸 specific](#usa--specific)
+  - [🗂 Services and companies](#-services-and-companies)
+    - [ITA 🇮🇹 specific](#ita--specific)
+- [💻 Work and doing Open Source](#-work-and-doing-open-source)
+  - [📖 Blogposts](#-blogposts)
+  - [📓 Articles](#-articles)
+  - [📚 Books \& Guides](#-books--guides)
+  - [🃏 Didn’t fit in the other ones](#-didnt-fit-in-the-other-ones)
+  - [🗳️ Other collections](#️-other-collections)
+
 # 🌍 General
 
 _In this area, I’m putting general links and resources, divided by area - you don’t need to be a developer or a OSS maintainer to use them 🤗 if you have any suggestions for items to add to these lists, please open an issue or submit a PR._
