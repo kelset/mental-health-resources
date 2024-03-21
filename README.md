@@ -2,11 +2,19 @@
 
 # 🌍 General
 
+_In this area, I’m putting general links and resources, divided by area - you don’t need to be a developer or a OSS maintainer to use them 🤗 if you have any suggestions for items to add to these lists, please open an issue or submit a PR._
+
 ## 📩 Newsletters
 
 - [Barking at the wrong tree](https://www.bakadesuyo.com/)
 - [Slow Growth](https://slowgrowth.com/)
 - [After Babel](https://www.afterbabel.com/)
+
+## 📹 YouTube
+
+To make it simple, I’ve put it all in this [YouTube playlist](https://www.youtube.com/playlist?list=PLiD6R_aXkpLgYDKrj1gkqdzL2qsKUUfUk) to make it easy to consume.
+
+Also, I have a YouTube channel now where I talk with other developers about mental health, so [check it out](https://www.youtube.com/channel/UCbw5AHyRBNUFzTHCVuO5q9w)!
 
 ## 🎙 Podcasts
 
@@ -93,6 +101,65 @@
 - [UnoBravo](https://www.unobravo.com/)
 - [GliPsicologiOnline](https://glipsicologionline.it/)
 
+# 💻 Work and doing Open Source
+
+_I’m trying to capture here a series of resources that helped me learn more about these intersections (software engineering + oss) and how it affects mental health._
+
+## 📖 Blogposts
+
+- [Open Source Maintainers Owe You Nothing](https://mikemcquaid.com/2018/03/19/open-source-maintainers-owe-you-nothing/)
+- [I’m fucking depressed, but it’s going to be okay.](https://medium.com/@kurtiskemple/im-fucking-depressed-but-it-s-going-to-be-okay-d004a1768350)
+- [Mental Wealth](https://jjbeshara.com/2020/06/04/mental-wealth/)
+- [Reading in the dark](https://www.cassie.codes/posts/reading-in-the-dark/)
+- [Burnout and the Developer](https://collaborativefiltering.tumblr.com/post/177594388144/burnout-and-the-developer)
+- [Give yourself a break: lessons from burnout](https://localghost.dev/blog/give-yourself-a-break-lessons-from-burnout/)
+- [The project that made me burnout](https://www.jesuisundev.com/en/the-project-that-made-me-burnout/)
+- [Reflections on Burnout](https://index.medium.com/reflections-on-burnout-bea0ebf87b9)
+- [Why I'm Frequently Absent from Open Source](https://archive.jlongster.com/Why-Frequently-Absent-Open-Source)
+- [What it feels like to be an open-source maintainer](https://nolanlawson.com/2017/03/05/what-it-feels-like-to-be-an-open-source-maintainer/)
+- [Open Source Sustainability](https://erikras.com/blog/open-source-sustainability)
+- [I wonder, why Graydon Hoare, the author of Rust, stopped contributing into it and switched to Swift? (response)](https://www.reddit.com/r/rust/comments/7qels2/comment/dsqeh1d/?utm_source=share&utm_medium=web2x&context=3)
+- [Mental Health in Open Source](https://antfu.me/posts/mental-health-oss)
+- [The Dark Side of Open Source](https://kettanaito.com/blog/the-dark-side-of-open-source)
+
+## 📓 Articles
+
+- [Open Source Developers May Start Charging for Help](https://beincrypto.com/open-source-developers-charging/)
+- [Burnout is real – here’s how to avoid it](https://www.atlassian.com/blog/productivity/work-burnout-symptoms-and-prevention)
+- [How Millennials Became The Burnout Generation](https://www.buzzfeednews.com/article/annehelenpetersen/millennials-burnout-generation-debt-work)
+- [Performant Mental Health, The Series](http://cameronmoll.com/journal/performant-mental-health)
+- [Workaholism Leads to Mental and Physical Health Problems: Work Addiction Risk Depends on Occupation](https://www.hse.ru/en/news/research/433782660.html)
+- [There’s a Name for the Blah You’re Feeling: It’s Called Languishing](https://www.nytimes.com/2021/04/19/well/mind/covid-mental-health-languishing.html) (paywall alert)
+- [83% of Developers Suffer From Burnout, Haystack Analytics Study Finds](https://www.usehaystack.io/blog/83-of-developers-suffer-from-burnout-haystack-analytics-study-finds)
+- [What You’re Getting Wrong About Burnout](https://sloanreview.mit.edu/article/what-youre-getting-wrong-about-burnout/)
+- [Burnout: Modern Affliction or Human Condition?](https://www.newyorker.com/magazine/2021/05/24/burnout-modern-affliction-or-human-condition)
+- [Finding endless video calls exhausting? You’re not alone](https://theconversation.com/finding-endless-video-calls-exhausting-youre-not-alone-137936)
+- [Stop Trying to Be Productive](https://www.nytimes.com/2020/04/01/style/productivity-coronavirus.html)
+- [Young Adults Report Rising Levels of Anxiety and Depression in Pandemic](https://www.nytimes.com/2020/08/13/health/Covid-mental-health-anxiety.html) (paywall alert)
+- [The Hidden Benefit of Giving Back to Open Source Software](https://hbswk.hbs.edu/item/the-hidden-benefit-of-giving-back-to-open-source-software)
+- [Open source has a people problem](https://www.infoworld.com/article/3570483/open-source-has-a-people-problem.html)
+
+## 📚 Books & Guides
+
+- [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.com/dp/0578675862/)
+- [Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/)
+- [The Cathedral and the Bazaar](http://catb.org/~esr/writings/cathedral-bazaar/)
+- [Increment - Issue #9: Open Source](https://increment.com/open-source/)
+- [Maintaining Balance for Open Source Maintainers - GitHub](https://opensource.guide/maintaining-balance-for-open-source-maintainers/)
+
+## 🃏 Didn’t fit in the other ones
+
+- [Ask HN: Burning Out](https://news.ycombinator.com/item?id=21661054)
+- [Ask HN: Anyone else burnt out due to extended lockdown and work-from-home?](https://news.ycombinator.com/item?id=25833639)
+- [Octoverse 2020: spotlight on burnout](https://github.blog/2020-05-06-octoverse-spotlight-an-analysis-of-developer-productivity-work-cadence-and-collaboration-in-the-early-days-of-covid-19/#burnout)
+- [The DEV/Forem Team is Taking a Mental Health Holiday 💚](https://dev.to/devteam/the-dev-forem-team-is-taking-a-mental-health-holiday-1ldl)
+- [Suicide and silence: why depressed men are dying for somebody to talk to](https://www.theguardian.com/society/2014/aug/15/suicide-silence-depressed-men)
+- [The social contract of open source](https://snarky.ca/the-social-contract-of-open-source/)
+- [Preventing burnout: A manager's toolkit](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/?utm_source=hackernewsletter&utm_medium=email&utm_term=working)
+- [How I regained concentration and focus](https://www.innoq.com/en/blog/wie-ich-meine-konzentration-wiederfand/)
+- [How to reduce ranked anxiety - using principles from Cognitive Behavioural Therapy(CBT)](https://www.reddit.com/r/StreetFighter/comments/14ykjff/how_to_reduce_ranked_anxiety_using_principles/)
+- [No Maintenance Intended](https://unmaintained.tech/)
+
 ## 🗳️ Other collections
 
 > ideally at some point I’d like to integrate these lists better into the rest of the page, but it’s a lot of work 😅
@@ -102,9 +169,3 @@
 - Apps, Platforms, Books, Lists, Magazines, Organizations, Treatment Options, Websites: https://github.com/theimpossibleastronaut/awesome-mentalhealth
 - Applications, Articles, Books, Conferences, Meetups, Organizations, Podcasts, Talks: https://github.com/dreamingechoes/awesome-mental-health
 - Mental Health Hackers’ [resources and links](https://www.mentalhealthhackers.org/resources-and-links/)
-
-## 📹 YouTube
-
-To make it simple, I’ve put it all in this [YouTube playlist](https://www.youtube.com/playlist?list=PLiD6R_aXkpLgYDKrj1gkqdzL2qsKUUfUk) to make it easy to consume.
-
-Also, I have a YouTube channel now where I talk with other developers about mental health, so [check it out](https://www.youtube.com/channel/UCbw5AHyRBNUFzTHCVuO5q9w)!
