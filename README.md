@@ -120,8 +120,10 @@ _In this area, I’m putting general links and resources, divided by area - you 
 ## 🗂 Services and companies
 
 - [SpringHealth](https://springhealth.com/)
+- [boysgetsadtoo](https://www.boysgetsadtoo.uk/)
 - [ThriveUK](https://thrive.uk.com/)
-- [BetterHelp](https://www.betterhelp.com/)
+- ~~[BetterHelp](https://www.betterhelp.com/)~~
+  - yeah actually don't use it, [they're pretty bad](https://www.youtube.com/watch?v=XcTssbRvA2w).
 
 ### ITA 🇮🇹 specific
 
