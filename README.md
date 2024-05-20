@@ -52,6 +52,7 @@ _In this area, I’m putting general links and resources, divided by area - you 
 - [Blocks w/ Neal Brennan](https://podcasts.apple.com/us/podcast/blocks-w-neal-brennan/id1658660161)
 - 🇮🇹 [LeBasi](https://www.ilpost.it/podcasts/le-basi/)
 - 🇮🇹 [No Pasa Nada](https://nopasanadapodcast.com/podcast/)
+- 🇮🇹 [Sigmund](https://www.ilpost.it/podcasts/sigmund/) - *suggested by @davidgerva*
 
 ## 📚 Courses
 
