@@ -17,6 +17,7 @@
   - [📲 Mobile apps](#-mobile-apps)
   - [📚 Books](#-books)
   - [📺 TV Shows](#-tv-shows)
+  - [🎮 Videogames](#-videogames)
   - [🗺 Charities and projects](#-charities-and-projects)
     - [UK 🇬🇧 specific](#uk--specific)
     - [USA 🇺🇸 specific](#usa--specific)
@@ -88,6 +89,14 @@ _In this area, I’m putting general links and resources, divided by area - you 
 - [Bojack Horseman](https://www.netflix.com/watch/70298930)
 - [Sex Education](https://www.netflix.com/title/80197526?trackIdJaw=13752289&trackIdEpisode=13752289&trackIdTrailer=13752289&dpRightClick=1)
 - [The Mind, Explained](https://www.netflix.com/gb/title/81098586)
+
+## 🎮 Videogames
+
+- [Hellblade: Senua’s Sacrifice](https://store.steampowered.com/app/414340/Hellblade_Senuas_Sacrifice/)
+- [Hellblade 2](https://store.steampowered.com/app/2461850/Senuas_Saga_Hellblade_II/)
+- [Celeste](https://store.steampowered.com/app/504230/Celeste/)
+- [Gris](https://store.steampowered.com/app/683320/GRIS/)
+- [A Short Hike](https://store.steampowered.com/app/1055540/A_Short_Hike/)
 
 ## 🗺 Charities and projects
 
