@@ -1,3 +1,5 @@
+# ⚠️ This is now archived: the resources are migrated into the debug-mind website -> https://github.com/kelset/debug-mind-website
+
 > Over my career in tech, I've found that we don't talk quite enough about mental health and the burden that this environment has on us. After a bad episode of burnout a few years ago, I decided that I needed help and found a therapist - and in 2020, with the start of the pandemic, I've started to collect resources and links that I feel are good to start learning more about this topic.
 
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
